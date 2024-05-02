@@ -1,2 +1,6 @@
 Git is version control system
 keep track of code changes
+
+Add
+commit
+push
