@@ -5,4 +5,9 @@ Add
 commit
 push
 
+
 pull Request
+
+It is updating step from github
+example of pull request
+
