@@ -4,3 +4,6 @@ keep track of code changes
 Add
 commit
 push
+
+It is updating step from github
+example of pull request
